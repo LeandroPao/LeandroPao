@@ -19,8 +19,8 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="45" height="45" />
-      <br>React Native
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="React Native" width="45" height="45" />
+      <br>Python
     </td>
     <td align="center" width="100">
       <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="45" height="45" />
