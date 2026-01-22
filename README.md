@@ -1,5 +1,5 @@
 <h2 align="center"><samp>Hello 👋 I'm Leandro Pão!</samp></h2>
-<h3 align="center"><samp>Aspiring cybersecurity professional from Portugal</samp> </h3>
+<h3 align="center"><samp>Aspiring Cybersecurity Professional from Portugal</samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/026360c6-1c46-41a8-81a3-565423caf3ce">
 
