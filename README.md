@@ -23,8 +23,8 @@
       <br>Python
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="45" height="45" />
-      <br>React
+      <img src="https://www.n00py.io/wp-content/uploads/2017/10/b_1.png" alt="React" width="45" height="45" />
+      <br>Burp Suite
     </td>
     <td align="center" width="100">
       <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="45" height="45" />
