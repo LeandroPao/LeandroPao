@@ -27,8 +27,8 @@
       <br>Burp Suite
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="45" height="45" />
-      <br>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wazuh.webp" alt="JavaScript" width="45" height="45" />
+      <br>Wazuh
     </td>
     <td align="center" width="100">
       <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="45" height="45" />
