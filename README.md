@@ -24,41 +24,41 @@
     </td>
     <td align="center" width="100">
       <img src="https://www.n00py.io/wp-content/uploads/2017/10/b_1.png" alt="React" width="45" height="45" />
-      <br>Burp Suite
+      <br>BurpSuite
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wazuh.webp" alt="JavaScript" width="45" height="45" />
       <br>Wazuh
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="45" height="45" />
-      <br>TypeScript
+      <img src="https://media.licdn.com/dms/image/v2/D4E12AQFgL7C8h8qLww/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680515780478?e=2147483647&v=beta&t=aT1YmUXfERWLTcsn3yD40oZbNzIg3IhFEg4Eobkfv_E" width="45" height="45" />
+      <br>Metasploit
     </td>
     <td align="center" width="100">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="45" height="45" />
-      <br>Git
+      <img src="https://logos-world.net/wp-content/uploads/2022/11/Splunk-Symbol.png" alt="Git" width="45" height="45" />
+      <br>Splunk
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="45" height="45" />
-      <br>VSCode
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/250px-Wireshark_icon.svg.png" width="45" height="45" />
+      <br>Wireshark
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="Bitbucket" width="45" height="45" />
-      <br>Bitbucket
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Bitbucket" width="45" height="45" />
+      <br>Windows
     </td>
     <td align="center" width="100">
-      <img src="https://www.svgrepo.com/show/353490/bitrise-icon.svg" alt="Bitrise" width="45" height="45" />
-      <br>Bitrise
+      <img src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png" width="45" height="45" />
+      <br>Linux
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" alt="Android Studio" width="60" height="60" />
-      <br>Android Studio
+      <img src="https://img.icons8.com/color/512/nmap.png" width="60" height="60" />
+      <br>Nmap
     </td>
     <td align="center" width="100">
-      <img src="https://icon.icepanel.io/Technology/svg/Xcode.svg" alt="Xcode" width="45" height="45" />
-      <br>Xcode
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNYtHyNeaY5nE5A2SKq1chZ-QmRAr790x5Q&s" width="45" height="45" />
+      <br>Kali
     </td>
     <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" />
