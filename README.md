@@ -2,10 +2,10 @@
 <h3 align="center"><samp>Aspiring Cybersecurity Professional from Portugal</samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
+ 
 <p>&nbsp;</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeandroPao&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /></p>
+<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/LeandroPao.png" alt="Your Image Badge"  /></p>
 
 <div style="margin-bottom: 200px;"></div>
 
